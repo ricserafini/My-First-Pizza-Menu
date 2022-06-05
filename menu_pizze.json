@@ -1,0 +1,6 @@
+[
+    {"pizza_name": "Margherita", "ingredients": ["Pomodoro", "Mozzarella", "Basilico"]}, 
+    {"pizza_name": "Cotto e Zucchine", "ingredients": ["Pomodoro", "Mozzarella", "Cotto", "Zucchine"]},  
+    {"pizza_name": "Salciccia", "ingredients": ["Pomodoro", "Mozzarella", "Salciccia"]}, 
+    {"pizza_name": "custom", "ingredients": ["tonno,", "cipolla"]}
+]
